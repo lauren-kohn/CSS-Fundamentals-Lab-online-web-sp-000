@@ -27,11 +27,10 @@ figcaption {
 
 #details {
   display: block;
-  float: left;
 }
 
 #details > div {
-  
+  float: left;
   text-align: center;
 }
 
