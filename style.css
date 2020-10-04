@@ -8,6 +8,10 @@ header, figure {
   text-align: center;
 }
 
+nav > a {
+  
+}
+
 #featured-property > p {
   text-align: center;
   width: 800px;
