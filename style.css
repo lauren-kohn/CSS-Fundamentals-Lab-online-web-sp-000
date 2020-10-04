@@ -15,8 +15,8 @@ nav > a {
 }
 
 figcaption {
-  text-align: center
-  
+  text-align: center;
+  font-size: small;
 }
 
 #featured-property > p {
